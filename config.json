@@ -12,8 +12,8 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "LE RU",
-	"prefix": "/",
+	"nickNameBot": "LERU",
+	"prefix": "*",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
@@ -21,10 +21,10 @@
 	"adminBot": [
 		"61596352166579"
 	],
-	"owner": ["61596352166579"],
+	"owner": ["100045644423035"],
 	"whiteListMode": {
 		"enable": false,
-		"whiteListIds": ["61596352166579"],
+		"whiteListIds": ["100045644423035"],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
 	"whiteListModeThread": {
